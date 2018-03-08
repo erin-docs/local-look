@@ -15,4 +15,6 @@ view: distribution_centers {
     sql: ${TABLE}.name ;;
   }
 
+#
+
 }
